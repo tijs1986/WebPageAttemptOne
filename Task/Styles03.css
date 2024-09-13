@@ -1,0 +1,60 @@
+table, th, td{
+    border: 2px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+    text-align: center;
+}
+td{
+    border-collapse: collapse;
+    margin: 20px;
+    background-color: aqua;
+    border-color: black;
+}
+th {
+    background-color: #f2f2f2;
+    border-color: black;
+}
+
+.fcc-btn{
+    background-color: #199319;
+    color: white;
+    padding: 15px 25px;
+    text-decoration: none;
+    border-radius: 12px;
+    font-family: 'Times New Roman';
+    font-size: 14px;
+}
+
+.fcc-btn:hover {
+    background-color: #223094;
+  }
+
+ body{
+    h1{
+        text-align: left; 
+        color: rgb(0, 0, 0);
+        font-size: 12mm;
+        line-height: 2;
+        font-family:'Times New Roman';
+        font-weight: bold;
+        background-color: white;
+    }
+    h2{
+        background-color: white;
+    }
+    
+    .pg-class01{
+        color: rgb(90, 43, 231);
+        font-size: 8mm;
+        line-height: 2;
+        font-family:Arial;
+        text-shadow: 2px 0 0 #000, -2px 0 0 #000, 0 2px 0 #000, 0 -2px 0 #000, 1px 1px
+    }
+
+ }
+   
+       
+
+
+
+
